@@ -45,3 +45,5 @@ React frontend that allows uploading healthcare documents and chatting about the
 3. This project simulates a healthcare chat system where users can type keywords such as medication, diagnosis, allerg, lab, or treatment, and receive simulated responses with corresponding source references.
 
 <img width="1512" height="857" alt="Image" src="https://github.com/user-attachments/assets/8889c8ff-55a3-4ea6-b3ca-848f59f63819" />
+
+https://github.com/user-attachments/assets/f61d1aa4-57bd-4ac1-bbd1-565e26337b4b
